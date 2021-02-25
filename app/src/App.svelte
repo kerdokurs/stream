@@ -1,8 +1,6 @@
 <script lang="typescript">
   const BASE_URL = 'http://fe5c6436f27b.eu.ngrok.io/';
   const VIDEO_URL = BASE_URL + 'view';
-  // const VIDEO_URL =
-  //   'https://q2.wewon.to/a/extra/m1/2010/Inception.2010.mp4?valid=1VV660V-QJaZ8zzHyFR9Rw&t=1614212312&dz=666732687962546C46517979466234593153454F253344';
   // const VIDEO_URL = './video1.mkv';
 
   let time = 0;
